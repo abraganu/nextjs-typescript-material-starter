@@ -11,7 +11,7 @@ const Home: NextPage = (): React.ReactElement => {
       </Head>
       <AppBar>
         <Toolbar>
-          <Typography variant="h6">Expertos</Typography>
+          <Typography variant="h6">Starter</Typography>
         </Toolbar>
       </AppBar>
     </>
